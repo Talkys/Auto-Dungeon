@@ -81,7 +81,7 @@
         <item>
          <widget class="QLabel" name="label_3">
           <property name="text">
-           <string>Tile size:</string>
+           <string>Tile skin:</string>
           </property>
          </widget>
         </item>
@@ -95,6 +95,11 @@
           <item>
            <property name="text">
             <string>Classic blue (16px)</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Ruins (16px)</string>
            </property>
           </item>
          </widget>

@@ -41,7 +41,7 @@ class Ui(QtWidgets.QMainWindow):
             tilesize = "16"
             tileindex = 0
             tmp = self.tiletype.currentIndex()
-            tiles = ["16","16"]
+            tiles = ["16","16", "16"]
             tilesize = tiles[tmp]
             tileindex = tmp
 
@@ -105,6 +105,10 @@ def generate(gridsize, dungeontype, tilesize, tileindex):
         [
         "./tiles/black16.png",
         "./tiles/chao1602.png"
+        ],
+        [
+        "./tiles/black16.png",
+        "./tiles/chao1603.png"
         ]
     ]
     
