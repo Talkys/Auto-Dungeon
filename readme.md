@@ -10,6 +10,6 @@ You can change the tiles on the tiles folder too, but remember to use the same r
 
 ## Usage
 
-You need to run the program by: python3 maplot.py (squaresize) (type) (tilesize) (outputfile)
+You can set the 3 options and generate your dungeon, click on the save button to save a png file.
 
-A simple example: python3 maplot.py 50 D 16 dungeon.png
+![image info](./img/print.png)
